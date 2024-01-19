@@ -1,3 +1,5 @@
+package Leetcode_2;
+
 class ListNode {
     int val;
     ListNode next;
@@ -16,7 +18,7 @@ class ListNode {
 }
 
 
-class Solution2 {
+class Solution {
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         String a = "";
         String b = "";
