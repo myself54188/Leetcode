@@ -40,6 +40,7 @@ class Solution {
             // 将快指针指向先前保存的地址，实现快指针的前移
             fast = tmp;
         }
+
         // 当快指针指向 null 时停止循环，这时候慢指针指向的节点为头结点
         return slow;
     }
