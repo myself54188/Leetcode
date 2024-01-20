@@ -1,4 +1,4 @@
-package Leetcode_1_100.Leetcode_2;
+package Leetcode_0001_0100.Leetcode_2;
 
 class ListNode {
     int val;
