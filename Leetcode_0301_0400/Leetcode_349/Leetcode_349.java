@@ -1,4 +1,4 @@
-package Leetcode_301_400.Leetcode_349;
+package Leetcode_0301_0400.Leetcode_349;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Leetcode_301_400.Leetcode_344;
+package Leetcode_0301_0400.Leetcode_344;
 
 class Solution {
     public void reverseString(char[] s) {
