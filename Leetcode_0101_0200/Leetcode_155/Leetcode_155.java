@@ -1,4 +1,4 @@
-package Leetcode_101_200.Leetcode_155;
+package Leetcode_0101_0200.Leetcode_155;
 
 class MinStack {
     int[] arr = new int[100000];
