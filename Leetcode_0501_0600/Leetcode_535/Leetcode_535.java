@@ -1,4 +1,4 @@
-package Leetcode_0401_0500.Leetcode_535;
+package Leetcode_0501_0600.Leetcode_535;
 
 
 class Codec {
