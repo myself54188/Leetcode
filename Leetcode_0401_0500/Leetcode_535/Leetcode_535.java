@@ -1,5 +1,6 @@
 package Leetcode_0401_0500.Leetcode_535;
 
+
 class Codec {
 
     // Encodes a URL to a shortened URL.
