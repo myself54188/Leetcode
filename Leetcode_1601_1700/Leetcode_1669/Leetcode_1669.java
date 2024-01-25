@@ -1,5 +1,6 @@
 package Leetcode_1601_1700.Leetcode_1669;
 
+
 class ListNode {
     int val;
     ListNode next;
