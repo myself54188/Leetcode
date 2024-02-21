@@ -11,7 +11,7 @@ class Solution {
             num += nums[q]; // num加上q前移的指向的值
 
             while (num >= target) { // p前移，前移的同时num还要减去退出窗口的值，sum记录的大小也要取小的哪个值
-                sum = sum > (q - p + 1) ? (q - p + 1) : sum;
+                sum = Math.min(sum, (q - p + 1));
                 num -= nums[p++];
             }
         }
